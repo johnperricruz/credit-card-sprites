@@ -1,0 +1,112 @@
+.amex-lg, .amex-md, .amex-xs, .dinersclub-lg, .dinersclub-md, .dinersclub-xs, .discover-lg, .discover-md, .discover-xs, .jcb-lg, .jcb-md, .jcb-xs, .mastercard-lg, .mastercard-md, .mastercard-xs, .visa-lg, .visa-md, .visa-xs{
+	background: url(sprites.png) no-repeat;
+}
+
+.amex-lg{
+	background-position: 0 0;
+	width: 128px;
+	height: 84px;
+}
+
+.amex-md{
+	background-position: -129px 0;
+	width: 64px;
+	height: 42px;
+}
+
+.amex-xs{
+	background-position: -130px -44px ;
+	width: 32px;
+	height: 21px;
+}
+
+.dinersclub-lg{
+	background-position: -195px 0;
+	width: 128px;
+	height: 84px;
+}
+
+.dinersclub-md{
+	background-position: -325px 0;
+	width: 64px;
+	height: 42px;
+}
+
+.dinersclub-xs{
+	background-position: -325px -43px ;
+	width: 32px;
+	height: 21px;
+}
+
+.discover-lg{
+	background-position: 0 -87px ;
+	width: 128px;
+	height: 84px;
+}
+
+.discover-md{
+	background-position: -130px -87px ;
+	width: 64px;
+	height: 42px;
+}
+
+.discover-xs{
+	background-position: -130px -132px ;
+	width: 32px;
+	height: 21px;
+}
+
+.jcb-lg{
+	background-position: -196px -89px ;
+	width: 128px;
+	height: 84px;
+}
+
+.jcb-md{
+	background-position: -325px -90px ;
+	width: 64px;
+	height: 42px;
+}
+
+.jcb-xs{
+	background-position: -326px -134px ;
+	width: 32px;
+	height: 21px;
+}
+
+.mastercard-lg{
+	background-position: 0 -176px ;
+	width: 128px;
+	height: 84px;
+}
+
+.mastercard-md{
+	background-position: -130px -177px ;
+	width: 64px;
+	height: 42px;
+}
+
+.mastercard-xs{
+	background-position: -131px -221px ;
+	width: 32px;
+	height: 21px;
+}
+
+.visa-lg{
+	background-position: -196px -177px ;
+	width: 128px;
+	height: 84px;
+}
+
+.visa-md{
+	background-position: -326px -179px ;
+	width: 64px;
+	height: 42px;
+}
+
+.visa-xs{
+	background-position: -327px -223px ;
+	width: 32px;
+	height: 21px;
+}
+
