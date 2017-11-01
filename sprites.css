@@ -1,5 +1,6 @@
 .amex-lg, .amex-md, .amex-xs, .dinersclub-lg, .dinersclub-md, .dinersclub-xs, .discover-lg, .discover-md, .discover-xs, .jcb-lg, .jcb-md, .jcb-xs, .mastercard-lg, .mastercard-md, .mastercard-xs, .visa-lg, .visa-md, .visa-xs{
 	background: url(sprites.png) no-repeat;
+	display: inline-block;
 }
 
 .amex-lg{
